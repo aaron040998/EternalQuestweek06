@@ -1,0 +1,14 @@
+F:\BYU\term3\program-class\week06\EternalQuestweek06\obj\Debug\net8.0\EternalQuestweek06.GeneratedMSBuildEditorConfig.editorconfig
+F:\BYU\term3\program-class\week06\EternalQuestweek06\obj\Debug\net8.0\EternalQuestweek06.AssemblyInfoInputs.cache
+F:\BYU\term3\program-class\week06\EternalQuestweek06\obj\Debug\net8.0\EternalQuestweek06.AssemblyInfo.cs
+F:\BYU\term3\program-class\week06\EternalQuestweek06\obj\Debug\net8.0\EternalQuestweek06.csproj.CoreCompileInputs.cache
+F:\BYU\term3\program-class\week06\EternalQuestweek06\bin\Debug\net8.0\EternalQuestweek06.exe
+F:\BYU\term3\program-class\week06\EternalQuestweek06\bin\Debug\net8.0\EternalQuestweek06.deps.json
+F:\BYU\term3\program-class\week06\EternalQuestweek06\bin\Debug\net8.0\EternalQuestweek06.runtimeconfig.json
+F:\BYU\term3\program-class\week06\EternalQuestweek06\bin\Debug\net8.0\EternalQuestweek06.dll
+F:\BYU\term3\program-class\week06\EternalQuestweek06\bin\Debug\net8.0\EternalQuestweek06.pdb
+F:\BYU\term3\program-class\week06\EternalQuestweek06\obj\Debug\net8.0\EternalQuestweek06.dll
+F:\BYU\term3\program-class\week06\EternalQuestweek06\obj\Debug\net8.0\refint\EternalQuestweek06.dll
+F:\BYU\term3\program-class\week06\EternalQuestweek06\obj\Debug\net8.0\EternalQuestweek06.pdb
+F:\BYU\term3\program-class\week06\EternalQuestweek06\obj\Debug\net8.0\EternalQuestweek06.genruntimeconfig.cache
+F:\BYU\term3\program-class\week06\EternalQuestweek06\obj\Debug\net8.0\ref\EternalQuestweek06.dll
