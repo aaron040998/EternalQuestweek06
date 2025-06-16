@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EternalQuestweek06")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f6d3c3e4d9142d01c132dcf720110b8995324a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("EternalQuestweek06")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EternalQuestweek06")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

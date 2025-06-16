@@ -1,4 +1,13 @@
 ﻿// Entry point for Eternal Quest goal tracking application
+
+/*
+ * EXCEEDS REQUIREMENTS:
+ * Implemented streak tracking system to reward consistent engagement.
+ * - Tracks consecutive days with recorded events
+ * - Persists streak data across sessions
+ * - Displays current streak in player info
+ * This enhances gamification by adding behavioral psychology elements.
+ */
 using System;
 
 namespace EternalQuest
